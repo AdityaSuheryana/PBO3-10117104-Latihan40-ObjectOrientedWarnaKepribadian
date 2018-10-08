@@ -16,6 +16,8 @@ package pbo3.pkg10117104.latihan40.objectorientedwarnakepribadian;
  * 
  */
 public class Warna {
+    public String warnaK;
+    
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
     public static final String ANSI_RED = "\u001B[31m";
